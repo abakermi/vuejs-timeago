@@ -1,5 +1,5 @@
 # vuejs-timeago 
-[![Build Status](https://travis-ci.com/abakermi/vuejs-timeago.svg?branch=master)](https://travis-ci.com/abakermi/vuejs-timeago ) [![npm version](https://badge.fury.io/js/vuejs-timeago.svg)](https://badge.fury.io/js/vuejs-timeago )
+[![Build Status](https://travis-ci.org/abakermi/vuejs-timeago.svg?branch=master)](https://travis-ci.org/abakermi/vuejs-timeago) [![npm version](https://badge.fury.io/js/vuejs-timeago.svg)](https://badge.fury.io/js/vuejs-timeago )
 
 
 A simple time-ago component for vuejs
