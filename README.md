@@ -1,5 +1,5 @@
-# vue-time-ago
-[![Build Status](https://travis-ci.com/abakermi/vue-time-ago.svg?branch=master)](https://travis-ci.com/abakermi/vue-time-ago) [![npm version](https://badge.fury.io/js/vue-time-ago.svg)](https://badge.fury.io/js/vue-time-ago)
+# vuejs-timeago 
+[![Build Status](https://travis-ci.com/abakermi/vuejs-timeago .svg?branch=master)](https://travis-ci.com/abakermi/vuejs-timeago ) [![npm version](https://badge.fury.io/js/vuejs-timeago .svg)](https://badge.fury.io/js/vuejs-timeago )
 
 
 A simple time-ago component for vuejs
@@ -11,7 +11,7 @@ A simple time-ago component for vuejs
 ### Install via CDN
 ```html
 <script src="https://unpkg.com/vue"></script>
-<script src="https://unpkg.com/vue-time-ago@0.0.1"></script>
+<script src="https://unpkg.com/vuejs-timeago @0.0.1"></script>
 
 <script>
   Vue.use(VueTimeAgo.default)
@@ -20,13 +20,13 @@ A simple time-ago component for vuejs
 
 ### Install via NPM
 ```sh
-$ npm install vue-time-ago --save
+$ npm install vuejs-timeago  --save
 ```
 
 #### Register as Component
 ```js
 import Vue from 'vue'
-import VueTimeAgo from 'vue-time-ago'
+import VueTimeAgo from 'vuejs-timeago '
 export default {
   name: 'App',
   components: {
@@ -38,7 +38,7 @@ export default {
 #### Register as Plugin
 ```js
 import Vue from 'vue'
-import VueTimeAgo from 'vue-time-ago'
+import VueTimeAgo from 'vuejs-timeago '
 Vue.use(VueTimeAgo)
 ```
 
@@ -46,11 +46,11 @@ Vue.use(VueTimeAgo)
 
 ```js
 <template>
- <vue-time-ago date="2020-08-07T11:32:01.592Z" format="DD-MM-YYYY" iso="true" > 
+ <vuejs-timeago  date="2020-08-07T11:32:01.592Z" format="DD-MM-YYYY" iso="true" > 
    <slot >
      ago
      </slot>
- </vue-time-ago>
+ </vuejs-timeago >
 </template>
 <script>
 import VFeedYoutube from 'vue-feeds-youtube'
@@ -73,4 +73,4 @@ export default {
 
 ## License
 
-vue-time-ago is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+vuejs-timeago  is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)

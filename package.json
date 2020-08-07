@@ -1,5 +1,5 @@
 {
-  "name": "vue-time-ago",
+  "name": "vuejs-timeago",
   "version": "0.0.0",
   "description": "A simple time-ago component for vuejs",
   "author": {
@@ -19,11 +19,11 @@
   "files": [
     "dist/*"
   ],
-    "homepage": "https://github.com/abakermi/vue-time-ago",
-  "bugs": "https://github.com/abakermi/vue-time-ago/issues",
+    "homepage": "https://github.com/abakermi/vuejs-timeago",
+  "bugs": "https://github.com/abakermi/vuejs-timeago/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abakermi/vue-time-ago.git"
+    "url": "https://github.com/abakermi/vuejs-timeago.git"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
