@@ -1,6 +1,6 @@
 {
   "name": "vuejs-timeago",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple time-ago component for vuejs",
   "author": {
     "name": "Abdelhak Akermi",
@@ -19,7 +19,7 @@
   "files": [
     "dist/*"
   ],
-    "homepage": "https://github.com/abakermi/vuejs-timeago",
+  "homepage": "https://github.com/abakermi/vuejs-timeago",
   "bugs": "https://github.com/abakermi/vuejs-timeago/issues",
   "repository": {
     "type": "git",
